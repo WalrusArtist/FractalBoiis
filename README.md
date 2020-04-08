@@ -3,7 +3,7 @@ Some basic fractal boiis in pythom
 
 Requirements:
 Python 3.7 
-Pillow
+and Pillow
 
 To install Pillow, run: 
 pip install Pillow
